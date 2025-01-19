@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tatenda Kasirori</h1>
-<h3 align="center">A passionate aspiring full-stack developer studying in the U.S.</h3>
+<h3 align="center">A passionate aspiring full-stack developer.</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgzamkxMmJoenRiYzVhZTcyNGtwNGdiazdqeGV1aXFxbm56bDJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BNq4CUiAuMOmDgRw2c/giphy.gif" alt="Jujutsu Kaisen GIF" width="200"/>
