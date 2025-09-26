@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatendakasirori" alt="tatendakasirori" /></a> </p>
 
-- 🔭 I’m currently working on **Desktop Organizer**
 
 - 🌱 I’m currently learning **Machine Learning and AI**
 
