@@ -51,3 +51,6 @@ I am looking to collaborate on:
 ![](https://nirzak-streak-stats.vercel.app/?user=tatendakasirori&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tatendakasirori&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## ✍️ Personal Motto
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20bells%20of%20the%20Gion%20monastery%20in%20India%20echo%20with%20the%20warning%20that%20all%20things%20are%20impermanent.%20The%20blossoms%20of%20the%20sala%20trees%20teach%20us%20through%20their%20hues%20that%20what%20flourishes%20must%20fade.%20However,%20.....dramatic%20pause.....%20we%20are%20the%20exception!&author=Todo%20Ayo%20(JJK))
+
