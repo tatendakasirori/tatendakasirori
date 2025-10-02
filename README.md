@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tatenda Kasirori</h1>
-<h3 align="center">A passionate aspiring full-stack developer.</h3>
+<h1 align="left">💫Hi. Tate here</h1>
+<h3 align="left">A passionate aspiring full-stack developer.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXgzamkxMmJoenRiYzVhZTcyNGtwNGdiazdqeGV1aXFxbm56bDJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BNq4CUiAuMOmDgRw2c/giphy.gif" alt="Jujutsu Kaisen GIF" width="200"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatendakasirori&label=Profile%20views&color=0e75b6&style=flat" alt="tatendakasirori" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatendakasirori" alt="tatendakasirori" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatendakasirori&theme=onedark" alt="tatendakasirori" /></a> </p>
 
 
 - 🌱 I’m currently learning **Machine Learning and AI**
