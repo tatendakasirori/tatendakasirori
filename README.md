@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGoxNWx6ZnpobWI2YWliNnRhZTVwNjlocHlxYmoyNmx6MWt2a2VkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AtdO4rsHIGeMTDGft5/giphy.gif" align="right" width="250">
 
-🔭 CS + Physics & Math | Research in ML & Quantum ⚛️ <br>
+🔭 CS + Physics & Math | Research in ML & Quantum Mech/Comp⚛️ <br>
 ♟️ Big chess fan | 🎥 Anime enthusiast (JJK glazer)  
 
 ### 🤝 Collaboration  
